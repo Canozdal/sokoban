@@ -43,16 +43,16 @@
 			helpLabel3 = new JLabel();
 			
 			
-			helpLabel.setBounds(200,100,400,300);
-			helpLabel2.setBounds(200,150,400,300);
-			helpLabel3.setBounds(200,200,400,300);
+			helpLabel.setBounds(300,100,400,300);
+			helpLabel2.setBounds(300,150,400,300);
+			helpLabel3.setBounds(300,200,400,300);
 			
 			helpLabel.setForeground(Color.BLACK);
 			helpLabel2.setForeground(Color.BLACK);
 			helpLabel3.setForeground(Color.BLACK);
 			
 			helpLabel.setText("PUSH BOXES TO THE DROP AREAS WITH SAME COLOR." + "\n" );
-			helpLabel2.setText(" YOU WÝLL DO YOUR MOVES IN A LIST.");
+			helpLabel2.setText(" YOU Wï¿½LL DO YOUR MOVES IN A LIST.");
 			helpLabel3.setText("WHEN YOU START THE GAME IT WILL EXECUTE YOUR ORDERS");
 
 			//Adding everything to the panel(Class in this case)
