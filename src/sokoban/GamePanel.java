@@ -34,7 +34,7 @@ public class GamePanel extends JPanel {
      Robot robot;
      static ArrayList<DropArea> dropAreas;
      static ArrayList<Box> boxs;
-     static ArrayList<Wall> walls;
+
 
      int width = 800;
      int height = 600;
