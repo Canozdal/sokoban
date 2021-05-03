@@ -1,0 +1,57 @@
+5 6
+10 11 Wall
+9 11 Wall
+8 11 Wall
+7 11 Wall
+6 11 Wall
+5 11 Wall
+4 11 Wall
+3 11 Wall
+2 11 Wall
+1 11 Wall
+0 11 Wall
+0 8 Wall
+0 9 Wall
+0 10 Wall
+0 7 Wall
+11 11 Wall
+12 11 Wall
+13 11 Wall
+13 10 Wall
+13 9 Wall
+13 8 Wall
+13 7 Wall
+13 6 Wall
+13 5 Wall
+13 4 Wall
+13 3 Wall
+13 2 Wall
+13 1 Wall
+13 0 Wall
+0 6 Wall
+0 5 Wall
+0 4 Wall
+0 2 Wall
+0 3 Wall
+0 0 Wall
+0 1 Wall
+1 0 Wall
+2 0 Wall
+3 0 Wall
+4 0 Wall
+5 0 Wall
+6 0 Wall
+7 0 Wall
+8 0 Wall
+9 0 Wall
+10 0 Wall
+11 0 Wall
+12 0 Wall
+11 4 Box 2
+1 1 EndPoint 2
+2 9 Box 1
+12 9 EndPoint 1
+7 1 Box 3
+12 1 EndPoint 3
+3 3 EndPoint 2
+5 4 Box 2

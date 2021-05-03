@@ -1,0 +1,13 @@
+9 8
+10 9 Wall
+9 9 Wall
+8 9 Wall
+7 9 Wall
+6 9 Wall
+6 8 Wall
+7 7 Wall
+8 7 Wall
+9 7 Wall
+10 8 Wall
+8 8 Box 2
+7 8 EndPoint 2
